@@ -24,11 +24,6 @@
 
 ---
 
-## 🧠 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plug-On&layout=compact&theme=tokyonight)
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Plug-On&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Plug-On&theme=dark&hide_border=false)<br/>
